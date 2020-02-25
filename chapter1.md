@@ -31,6 +31,11 @@ Use the print() function to print the value of a variable.
 
 `@pre_exercise_code`
 ```{python}
+
+```
+
+`@sample_code`
+```{python}
 # Create a variable savings
 savings = 100
 
@@ -42,11 +47,6 @@ result = savings*growth_multiplier**7
 
 # Print out result
 print(result)
-```
-
-`@sample_code`
-```{python}
-
 ```
 
 `@solution`
